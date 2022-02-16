@@ -41,11 +41,16 @@ def traveler_exception(char: characters.Character, team: list[characters.Charact
         return False
 
     for i, id in enumerate(traveler_ids):
+        if char.id != id: # not this traveler
+            continue
+
+        # it is this traveler and you ened to see the other travelers
         other_ids = traveler_ids[:i] + traveler_ids[i+1:]
 
         for other in other_ids:
-            if other == id:
-                return True
+            for team_char in team:
+                if other == team_char.id:
+                    return True
     
     return False
 
