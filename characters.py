@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 import json
 
-@dataclass
+@dataclass(order=True, frozen=True)
 class Character():
     id: int
     name: str
