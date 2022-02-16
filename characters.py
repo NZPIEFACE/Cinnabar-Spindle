@@ -48,6 +48,8 @@ character_dict = {}
 team_list = []
 team_dict = {}
 
+character_appearance_dict = {}
+
 with open("data.json") as f:
     obj = json.load(f)
 
@@ -56,10 +58,20 @@ with open("data.json") as f:
         character_list.append(char)
         character_dict[char.name] = char
 
+    for c in character_dict:
+        character_appearance_dict[c] = []
+
     for i, t in enumerate(obj["teams"]):
         team = Team.dict_to_Team(t)
         team_list.append(team)
         team_dict[team.name] = team
 
+        for c in team.team:
+            character_appearance_dict[c.name].append(team)
+
 if __name__ == "__main__":
-    team_dict["OG National"].print()
+    for i in character_appearance_dict:
+        print(f"{i} {len(character_appearance_dict[i])}")
+        #print("; ".join([t.name for t in character_appearance_dict[i]]))
+
+    print(f"Total {len(team_list)}")

@@ -15,7 +15,7 @@ Position doesn't matter.
 
 ## Usage
 
-Run `main.py` to play the game.
+Run `main.py` to play the game. The code has some features that require Python 3.9 or above.
 
 The spelling of the guesses has to be exact to what the character shows in English. This includes whitespaces and capitalisation.
 

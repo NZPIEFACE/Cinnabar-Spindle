@@ -297,7 +297,7 @@
     ],
     "teams": [
         {
-            "name": "OG National",
+            "name": "National",
             "team": ["Bennett", "Xiangling", "Xingqiu", "Chongyun"]
         },
         {
@@ -313,12 +313,332 @@
             "team": ["Zhongli", "Albedo", "Geo Traveler", "Bennett"]
         },
         {
-            "name": "Shenhe National",
-            "team": ["Bennett", "Xiangling", "Xingqiu", "Shenhe"]
+            "name": "National - Sucrose",
+            "team": ["Bennett", "Xiangling", "Xingqiu", "Sucrose"]
         },
         {
-            "name": "Better National",
-            "team": ["Bennett", "Xiangling", "Xingqiu", "Sucrose"]
+            "name": "Hu Tao VV Vape - Xinyan Sucrose",
+            "team": ["Hu Tao", "Xingqiu", "Xinyan", "Sucrose"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Xinyan Kazuha",
+            "team": ["Hu Tao", "Xingqiu", "Xinyan", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Yanfei Sucrose",
+            "team": ["Hu Tao", "Xingqiu", "Yanfei", "Sucrose"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Yanfei Kazuha",
+            "team": ["Hu Tao", "Xingqiu", "Yanfei", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Thoma Sucrose",
+            "team": ["Hu Tao", "Xingqiu", "Thoma", "Sucrose"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Thoma Kazuha",
+            "team": ["Hu Tao", "Xingqiu", "Thoma", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Amber Sucrose",
+            "team": ["Hu Tao", "Xingqiu", "Amber", "Sucrose"]
+        },
+        {
+            "name": "Hu Tao VV Vape - Amber Kazuha",
+            "team": ["Hu Tao", "Xingqiu", "Amber", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Raiden Sunfire",
+            "team": ["Raiden Shogun", "Kujou Sara", "Jean", "Bennett"]
+        },
+        {
+            "name": "Raiden Hypercarry - Sara",
+            "team": ["Raiden Shogun", "Kujou Sara", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Raiden Hypercarry - Lisa",
+            "team": ["Raiden Shogun", "Lisa", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Raiden Hypercarry - Mona",
+            "team": ["Raiden Shogun", "Mona", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Eternational",
+            "team": ["Raiden Shogun", "Bennett", "Xiangling", "Xingqiu"]
+        },
+        {
+            "name": "Moragana",
+            "team": ["Venti", "Mona", "Ganyu", "Diona"]
+        },
+        {
+            "name": "Sucrose Taser",
+            "team": ["Sucrose", "Beidou", "Fischl", "Xingqiu"]
+        },
+        {
+            "name": "Klee Mono Pyro",
+            "team": ["Klee", "Xiangling", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "International",
+            "team": ["Xiangling", "Kaedehara Kazuha", "Tartaglia", "Bennett"]
+        },
+        {
+            "name": "Taser Tao",
+            "team": ["Hu Tao", "Xingqiu", "Beidou", "Fischl"]
+        },
+        {
+            "name": "Reverse Melt Quickswap",
+            "team": ["Xiangling", "Rosaria", "Bennett", "Kaeya"]
+        },
+        {
+            "name": "Anemo Pyro Quickswap",
+            "team": ["Kaedehara Kazuha", "Bennett", "Venti", "Xiangling"]
+        },
+        {
+            "name": "Mono Hydro - Kokomi",
+            "team": ["Sangonomiya Kokomi", "Kaedehara Kazuha", "Venti", "Xingqiu"]
+        },
+        {
+            "name": "Noelle Mono Geo - Yun Jin, Geo Traveler",
+            "team": ["Noelle", "Yun Jin", "Geo Traveler", "Zhongli"]
+        },
+        {
+            "name": "Yoimiya Vape - Yun Jin",
+            "team": ["Yoimiya", "Yun Jin", "Xingqiu", "Zhongli"]
+        },
+        {
+            "name": "Yoimiya Vape - Bennett",
+            "team": ["Yoimiya", "Bennett", "Xingqiu", "Zhongli"]
+        },
+        {
+            "name": "Yoimiya Mono Pyro - Yun Jin",
+            "team": ["Yoimiya", "Bennett", "Yun Jin", "Zhongli"]
+        },
+        {
+            "name": "Yoimiya Vape - Geo Bros",
+            "team": ["Yoimiya", "Xingqiu", "Albedo", "Zhongli"]
+        },
+        {
+            "name": "Melt Ganyu - Kazuha",
+            "team": ["Kaedehara Kazuha", "Ganyu", "Bennett", "Zhongli"]
+        },
+        {
+            "name": "Melt Ganyu - Xiangling",
+            "team": ["Ganyu", "Xiangling", "Bennett", "Zhongli"]
+        },
+        {
+            "name": "Sukokomon",
+            "team": ["Sangonomiya Kokomi", "Sucrose", "Xiangling", "Fischl"]
+        },
+        {
+            "name": "Xiao Double Geo",
+            "team": ["Xiao", "Albedo", "Zhongli", "Sucrose"]
+        },
+        {
+            "name": "Depressional",
+            "team": ["Xiao", "Bennett", "Xiangling", "Bennett"]
+        },
+        {
+            "name": "Xiao Reverse Melt",
+            "team": ["Xiao", "Rosaria", "Xiangling", "Bennett"]
+        },
+        {
+            "name": "Thundering Fury Bennett",
+            "team": ["Bennett", "Fischl", "Beidou", "Xingqiu"]
+        },
+        {
+            "name": "Overload Kazuha",
+            "team": ["Beidou", "Fischl", "Kaedehara Kazuha", "Bennett"]
+        },
+        {
+            "name": "Reverse Melt - Shenhe",
+            "team": ["Shenhe", "Rosaria", "Bennett", "Xiangling"]
+        },
+        {
+            "name": "Almighty Push",
+            "team": ["Sangonomiya Kokomi", "Rosaria", "Kaedehara Kazuha", "Kamisato Ayaka"]
+        },
+        {
+            "name": "Overvape Yanfei",
+            "team": ["Yanfei", "Beidou", "Fischl", "Xingqiu"]
+        },
+        {
+            "name": "Vape Yanfei",
+            "team": ["Yanfei", "Bennett", "Xingqiu", "Sucrose"]
+        },
+        {
+            "name": "Physical Zhongli - Rosaria",
+            "team": ["Zhongli", "Yun Jin", "Fischl", "Rosaria"]
+        },
+        {
+            "name": "Physical Zhongli - Beidou",
+            "team": ["Zhongli", "Yun Jin", "Beidou", "Fischl"]
+        },
+        {
+            "name": "Cryo Zhongli - C6 Shenhe",
+            "team": ["Zhongli", "Chongyun", "Yun Jin", "Shenhe"]
+        },
+        {
+            "name": "Taser Zhongli",
+            "team": ["Zhongli", "Xingqiu", "Fischl", "Beidou"]
+        },
+        {
+            "name": "Sayunado",
+            "team": ["Xiangling", "Kaeya", "Sayu", "Bennett"]
+        },
+        {
+            "name": "Eula Beidou",
+            "team": ["Eula", "Fischl", "Diona", "Beidou"]
+        },
+        {
+            "name": "Eula Mono Cryo",
+            "team": ["Eula", "Shenhe", "Rosaria", "Zhongli"]
+        },
+        {
+            "name": "Melt Eula - C6 Bennett",
+            "team": ["Eula", "Bennett", "Shenhe", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Tartaglia Reverse Vape",
+            "team": ["Sucrose", "Tartaglia", "Xiangling", "Bennett"]
+        },
+        {
+            "name": "Elevatasor",
+            "team": ["Albedo", "Sucrose", "Xingqiu", "Fischl"]
+        },
+        {
+            "name": "Freeze Childe",
+            "team": ["Tartaglia", "Venti", "Ganyu", "Diona"]
+        },
+        {
+            "name": "Kokogana",
+            "team": ["Sangonomiya Kokomi", "Ganyu", "Diona", "Venti"]
+        },
+        {
+            "name": "Diluc Vape - Zhongli",
+            "team": ["Diluc", "Bennett", "Xingqiu", "Zhongli"]
+        },
+        {
+            "name": "Diluc Vape - Kazuha",
+            "team": ["Diluc", "Bennett", "Xingqiu", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Fireworks Yoimiya",
+            "team": ["Yoimiya", "Fischl", "Bennett", "Beidou"]
+        },
+        {
+            "name": "Qiqi Taser",
+            "team": ["Qiqi", "Fischl", "Xingqiu", "Beidou"]
+        },
+        {
+            "name": "Xiao - Bennett",
+            "team": ["Xiao", "Sucrose", "Bennett", "Zhongli"]
+        },
+        {
+            "name": "Basic Razor",
+            "team": ["Razor", "Qiqi", "Bennett", "Yun Jin"]
+        },
+        {
+            "name": "Ningguang with Pyro",
+            "team": ["Ningguang", "Bennett", "Xiangling", "Zhongli"]
+        },
+        {
+            "name": "Quickshot",
+            "team": ["Ningguang", "Kujou Sara", "Albedo", "Chongyun"]
+        },
+        {
+            "name": "RaiFish",
+            "team": ["Raiden Shogun", "Fischl", "Kaedehara Kazuha", "Bennett"]
+        },
+        {
+            "name": "Keqing Geo Bros",
+            "team": ["Keqing", "Kaedehara Kazuha", "Albedo", "Zhongli"]
+        },
+        {
+            "name": "Budget 'Morgana'",
+            "team": ["Kaeya", "Rosaria", "Sucrose", "Barbara"]
+        },
+        {
+            "name": "Kaeya Rosaria Freeze",
+            "team": ["Kaeya", "Rosaria", "Kaedehara Kazuha", "Xingqiu"]
+        },
+        {
+            "name": "'The Forgotten Dude'",
+            "team": ["Diluc", "Xingqiu", "Sucrose", "Diona"]
+        },
+        {
+            "name": "Eula Triple Cryo - Rosaria Fischl",
+            "team": ["Eula", "Diona", "Rosaria", "Fischl"]
+        },
+        {
+            "name": "Eula Triple Cryo - Rosaria Raiden",
+            "team": ["Eula", "Diona", "Rosaria", "Raiden Shogun"]
+        },
+        {
+            "name": "Eula Triple Cryo - Shenhe Fischl",
+            "team": ["Eula", "Diona", "Shenhe", "Fischl"]
+        },
+        {
+            "name": "Eula Triple Cryo - Shenhe Raiden",
+            "team": ["Eula", "Diona", "Shenhe", "Raiden Shogun"]
+        },
+        {
+            "name": "Eula Raiden - Fischl",
+            "team": ["Eula", "Raiden Shogun", "Diona", "Fischl"]
+        },
+        {
+            "name": "Eula Raiden - Beidou",
+            "team": ["Eula", "Raiden Shogun", "Diona", "Beidou"]
+        },
+        {
+            "name": "Self-Overload Razor",
+            "team": ["Razor", "Jean", "Bennett", "Xingqiu"]
+        },
+        {
+            "name": "Yoimiya Vape - No Zhongli",
+            "team": ["Yoimiya", "Kaedehara Kazuha", "Xingqiu", "Bennett"]
+        },
+        {
+            "name": "Mona Taser",
+            "team": ["Mona", "Fischl", "Beidou", "Xingqiu"]
+        },
+        {
+            "name": "Eula Raiden - Lisa",
+            "team": ["Eula", "Raiden Shogun", "Lisa", "Diona"]
+        },
+        {
+            "name": "Eula Nuke",
+            "team": ["Eula", "Lisa", "Bennett", "Xinyan"]
+        },
+        {
+            "name": "Qiqi Electro Driver",
+            "team": ["Qiqi", "Beidou", "Fischl", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Shatbedo",
+            "team": ["Albedo", "Chongyun", "Xingqiu", "Fischl"]
+        },
+        {
+            "name": "Itto and the Boys",
+            "team": ["Arataki Itto", "Gorou", "Albedo", "Zhongli"]
+        },
+        {
+            "name": "F2P Ayaka",
+            "team": ["Kamisato Ayaka", "Anemo Traveler", "Barbara", "Kaeya"]
+        },
+        {
+            "name": "National - Yae",
+            "team": ["Yae Miko", "Bennett", "Xiangling", "Xingqiu"]
+        },
+        {
+            "name": "Physical Amber",
+            "team": ["Amber", "Beidou", "Electro Traveler", "Diona"]
+        },
+        {
+            "name": "Reverse Melt Aloy",
+            "team": ["Aloy", "Bennett", "Xiangling", "Sucrose"]
         }
     ]
 }
