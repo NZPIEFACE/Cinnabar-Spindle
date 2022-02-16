@@ -1,17 +1,11 @@
 from dataclasses import dataclass
 import characters
 
-
-@dataclass
-class Team():
-    name: str
-    team: list[characters.Character]
-
 class Guess():
-    def __init__(self, guess: Team):
+    def __init__(self, guess: characters.Team):
         self.team = guess
 
-    def compare_to_answer(self, answer: Team) -> list[str]:
+    def compare_to_answer(self, answer: characters.Team) -> list[str]:
         guess_answer = ["grey"] * 4
         found = answer.team.copy()
 
@@ -32,9 +26,17 @@ class Guess():
 
         return guess_answer
 
-National = Team("National", [characters.Xiangling, characters.Bennett, characters.Xingqiu, characters.Chongyun])
-Better_National = Guess(Team("Better National", [characters.Xiangling, characters.Bennett, characters.Xingqiu, characters.Sucrose]))
-Shenhe_National = Guess(Team("Shenhe National", [characters.Xiangling, characters.Shenhe, characters.Bennett, characters.Xingqiu]))
+class Game():
+    def __init__(self, answer: characters.Team):
+        self.answer = answer
+        self.guesses_left = 4 # SUBJECT TO CHANGE
 
-print(Better_National.compare_to_answer(National))
-print(Shenhe_National.compare_to_answer(National))
+    def play(self):
+        print("Guess a team.")
+
+
+National = characters.team_dict["OG National"]
+Better_National = Guess(characters.team_dict["Better National"])
+Shenhe_National = Guess(characters.team_dict["Shenhe National"])
+
+National.print()

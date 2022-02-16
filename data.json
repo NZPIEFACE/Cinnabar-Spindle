@@ -1,0 +1,324 @@
+{
+    "characters": [
+        {
+            "id": 0, 
+            "name": "Amber",
+            "weapon": "Bow",
+            "element": "Pyro"
+        },
+        {
+            "id": 1, 
+            "name": "Barbara",
+            "weapon": "Catalyst",
+            "element": "Hydro"
+        },
+        {
+            "id": 2, 
+            "name": "Beidou",
+            "weapon": "Claymore",
+            "element": "Electro"
+        },
+        {
+            "id": 3, 
+            "name": "Bennett",
+            "weapon": "Sword",
+            "element": "Pyro"
+        },
+        {
+            "id": 4, 
+            "name": "Chongyun",
+            "weapon": "Claymore",
+            "element": "Cryo"
+        },
+        {
+            "id": 5,
+            "name": "Diluc",
+            "weapon": "Claymore",
+            "element": "Pyro"
+        },
+        {
+            "id": 6,
+            "name": "Fischl",
+            "weapon": "Bow",
+            "element": "Electro"
+        },
+        {
+            "id": 7,
+            "name": "Jean",
+            "weapon": "Sword",
+            "element": "Anemo"
+        },
+        {
+            "id": 8,
+            "name": "Kaeya",
+            "weapon": "Sword",
+            "element": "Cryo"
+        },
+        {
+            "id": 9,
+            "name": "Keqing",
+            "weapon": "Sword",
+            "element": "Electro"
+        },
+        {
+            "id": 10,
+            "name": "Klee",
+            "weapon": "Catalyst",
+            "element": "Pyro"
+        },
+        {
+            "id": 11,
+            "name": "Lisa",
+            "weapon": "Catalyst",
+            "element": "Electro"
+        },
+        {
+            "id": 12,
+            "name": "Mona",
+            "weapon": "Catalyst",
+            "element": "Hydro"
+        },
+        {
+            "id": 13,
+            "name": "Ningguang",
+            "weapon": "Catalyst",
+            "element": "Geo"
+        },
+        {
+            "id": 14,
+            "name": "Noelle",
+            "weapon": "Claymore",
+            "element": "Geo"
+        },
+        {
+            "id": 15,
+            "name": "Qiqi",
+            "weapon": "Sword",
+            "element": "Cryo"
+        },
+        {
+            "id": 16,
+            "name": "Razor",
+            "weapon": "Claymore",
+            "element": "Electro"
+        },
+        {
+            "id": 17,
+            "name": "Sucrose",
+            "weapon": "Catalyst",
+            "element": "Anemo"
+        },
+        {
+            "id": 18,
+            "name": "Anemo Traveler",
+            "weapon": "Sword",
+            "element": "Anemo"
+        },
+        {
+            "id": 19,
+            "name": "Geo Traveler",
+            "weapon": "Sword",
+            "element": "Geo"
+        },
+        {
+            "id": 20,
+            "name": "Venti",
+            "weapon": "Bow",
+            "element": "Anemo"
+        },
+        {
+            "id": 21,
+            "name": "Xiangling",
+            "weapon": "Polearm",
+            "element": "Pyro"
+        },
+        {
+            "id": 22,
+            "name": "Xingqiu",
+            "weapon": "Sword",
+            "element": "Hydro"
+        },
+        {
+            "id": 23,
+            "name": "Diona",
+            "weapon": "Bow",
+            "element": "Cryo"
+        },
+        {
+            "id": 24,
+            "name": "Tartaglia",
+            "weapon": "Bow",
+            "element": "Hydro"
+        },
+        {
+            "id": 25,
+            "name": "Xinyan",
+            "weapon": "Claymore",
+            "element": "Pyro"
+        },
+        {
+            "id": 26,
+            "name": "Zhongli",
+            "weapon": "Polearm",
+            "element": "Geo"
+        },
+        {
+            "id": 27,
+            "name": "Albedo",
+            "weapon": "Sword",
+            "element": "Geo"
+        },
+        {
+            "id": 28,
+            "name": "Ganyu",
+            "weapon": "Bow",
+            "element": "Cryo"
+        },
+        {
+            "id": 29,
+            "name": "Xiao",
+            "weapon": "Polearm",
+            "element": "Anemo"
+        },
+        {
+            "id": 30,
+            "name": "Hu Tao",
+            "weapon": "Polearm",
+            "element": "Pyro"
+        },
+        {
+            "id": 31,
+            "name": "Rosaria",
+            "weapon": "Polearm",
+            "element": "Cryo"
+        },
+        {
+            "id": 32,
+            "name": "Eula",
+            "weapon": "Claymore",
+            "element": "Cryo"
+        },
+        {
+            "id": 33,
+            "name": "Yanfei",
+            "weapon": "Catalyst",
+            "element": "Pyro"
+        },
+        {
+            "id": 34,
+            "name": "Kaedehara Kazuha",
+            "weapon": "Sword",
+            "element": "Anemo"
+        },
+        {
+            "id": 35,
+            "name": "Electro Traveler",
+            "weapon": "Sword",
+            "element": "Electro"
+        },
+        {
+            "id": 36,
+            "name": "Kamisato Ayaka",
+            "weapon": "Sword",
+            "element": "Cryo"
+        },
+        {
+            "id": 37,
+            "name": "Sayu",
+            "weapon": "Claymore",
+            "element": "Anemo"
+        },
+        {
+            "id": 38,
+            "name": "Yoimiya",
+            "weapon": "Bow",
+            "element": "Pyro"
+        },
+        {
+            "id": 39,
+            "name": "Aloy",
+            "weapon": "Bow",
+            "element": "Cryo"
+        },
+        {
+            "id": 40,
+            "name": "Kujou Sara",
+            "weapon": "Bow",
+            "element": "Electro"
+        },
+        {
+            "id": 41,
+            "name": "Raiden Shogun",
+            "weapon": "Polearm",
+            "element": "Electro"
+        },
+        {
+            "id": 42,
+            "name": "Sangonomiya Kokomi",
+            "weapon": "Catalyst",
+            "element": "Hydro"
+        },
+        {
+            "id": 43,
+            "name": "Thoma",
+            "weapon": "Polearm",
+            "element": "Pyro"
+        },
+        {
+            "id": 44,
+            "name": "Arataki Itto",
+            "weapon": "Claymore",
+            "element": "Geo"
+        },
+        {
+            "id": 45,
+            "name": "Gorou",
+            "weapon": "Bow",
+            "element": "Geo"
+        },
+        {
+            "id": 46,
+            "name": "Shenhe",
+            "weapon": "Polearm",
+            "element": "Cryo"
+        },
+        {
+            "id": 47,
+            "name": "Yun Jin",
+            "weapon": "Polearm",
+            "element": "Geo"
+        },
+        {
+            "id": 48,
+            "name": "Yae Miko",
+            "weapon": "Catalyst",
+            "element": "Electro"
+        }
+    ],
+    "teams": [
+        {
+            "name": "OG National",
+            "team": ["Bennett", "Xiangling", "Xingqiu", "Chongyun"]
+        },
+        {
+            "name": "Hu Tao Guoba Swirl",
+            "team": ["Hu Tao", "Xingqiu", "Xiangling", "Sucrose"]
+        },
+        {
+            "name": "Hu Tao Geo Bros",
+            "team": ["Hu Tao", "Xingqiu", "Albedo", "Zhongli"]
+        },
+        {
+            "name": "Microwave",
+            "team": ["Zhongli", "Albedo", "Geo Traveler", "Bennett"]
+        },
+        {
+            "name": "Shenhe National",
+            "team": ["Bennett", "Xiangling", "Xingqiu", "Shenhe"]
+        },
+        {
+            "name": "Better National",
+            "team": ["Bennett", "Xiangling", "Xingqiu", "Sucrose"]
+        }
+    ]
+}
