@@ -116,3 +116,4 @@ class Game():
 if __name__ == "__main__":
     game = Game(random.choice(characters.team_list))
     game.play()
+    input() # Hanging input before the thing closes
