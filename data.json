@@ -10,25 +10,29 @@
             "id": 1, 
             "name": "Barbara",
             "weapon": "Catalyst",
-            "element": "Hydro"
+            "element": "Hydro",
+            "aliases": [ "Barb" ]
         },
         {
             "id": 2, 
             "name": "Beidou",
             "weapon": "Claymore",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Bei" ]
         },
         {
             "id": 3, 
             "name": "Bennett",
             "weapon": "Sword",
-            "element": "Pyro"
+            "element": "Pyro",
+            "aliases": [ "Benny" ]
         },
         {
             "id": 4, 
             "name": "Chongyun",
             "weapon": "Claymore",
-            "element": "Cryo"
+            "element": "Cryo",
+            "aliases": [ "Chong" ]
         },
         {
             "id": 5,
@@ -58,7 +62,8 @@
             "id": 9,
             "name": "Keqing",
             "weapon": "Sword",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Keq" ]
         },
         {
             "id": 10,
@@ -82,7 +87,8 @@
             "id": 13,
             "name": "Ningguang",
             "weapon": "Catalyst",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "Ning" ]
         },
         {
             "id": 14,
@@ -106,19 +112,22 @@
             "id": 17,
             "name": "Sucrose",
             "weapon": "Catalyst",
-            "element": "Anemo"
+            "element": "Anemo",
+            "aliases": [ "Suc" ]
         },
         {
             "id": 18,
             "name": "Anemo Traveler",
             "weapon": "Sword",
-            "element": "Anemo"
+            "element": "Anemo",
+            "aliases": [ "AMC" ]
         },
         {
             "id": 19,
             "name": "Geo Traveler",
             "weapon": "Sword",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "GMC" ]
         },
         {
             "id": 20,
@@ -130,13 +139,15 @@
             "id": 21,
             "name": "Xiangling",
             "weapon": "Polearm",
-            "element": "Pyro"
+            "element": "Pyro",
+            "aliases": [ "XL" ]
         },
         {
             "id": 22,
             "name": "Xingqiu",
             "weapon": "Sword",
-            "element": "Hydro"
+            "element": "Hydro",
+            "aliases": [ "XQ" ]
         },
         {
             "id": 23,
@@ -148,19 +159,22 @@
             "id": 24,
             "name": "Tartaglia",
             "weapon": "Bow",
-            "element": "Hydro"
+            "element": "Hydro",
+            "aliases": [ "Childe" ]
         },
         {
             "id": 25,
             "name": "Xinyan",
             "weapon": "Claymore",
-            "element": "Pyro"
+            "element": "Pyro",
+            "aliases": [ "XY" ]
         },
         {
             "id": 26,
             "name": "Zhongli",
             "weapon": "Polearm",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "ZL" ]
         },
         {
             "id": 27,
@@ -184,13 +198,15 @@
             "id": 30,
             "name": "Hu Tao",
             "weapon": "Polearm",
-            "element": "Pyro"
+            "element": "Pyro",
+            "aliases": [ "HT", "Tao", "Hutao" ]
         },
         {
             "id": 31,
             "name": "Rosaria",
             "weapon": "Polearm",
-            "element": "Cryo"
+            "element": "Cryo",
+            "aliases": [ "Rose", "Rosa" ]
         },
         {
             "id": 32,
@@ -202,25 +218,29 @@
             "id": 33,
             "name": "Yanfei",
             "weapon": "Catalyst",
-            "element": "Pyro"
+            "element": "Pyro",
+            "aliases": [ "YF" ]
         },
         {
             "id": 34,
             "name": "Kaedehara Kazuha",
             "weapon": "Sword",
-            "element": "Anemo"
+            "element": "Anemo",
+            "aliases": [ "Kazuha", "Kaz", "Kazoo" ]
         },
         {
             "id": 35,
             "name": "Electro Traveler",
             "weapon": "Sword",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "EMC" ]
         },
         {
             "id": 36,
             "name": "Kamisato Ayaka",
             "weapon": "Sword",
-            "element": "Cryo"
+            "element": "Cryo",
+            "aliases": [ "Ayaka" ]
         },
         {
             "id": 37,
@@ -232,7 +252,8 @@
             "id": 38,
             "name": "Yoimiya",
             "weapon": "Bow",
-            "element": "Pyro"
+            "element": "Pyro",
+            "aliases": [ "Yoi" ]
         },
         {
             "id": 39,
@@ -244,19 +265,22 @@
             "id": 40,
             "name": "Kujou Sara",
             "weapon": "Bow",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Sara" ]
         },
         {
             "id": 41,
             "name": "Raiden Shogun",
             "weapon": "Polearm",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Raiden" ]
         },
         {
             "id": 42,
             "name": "Sangonomiya Kokomi",
             "weapon": "Catalyst",
-            "element": "Hydro"
+            "element": "Hydro",
+            "aliases": [ "Kokomi", "Koko" ]
         },
         {
             "id": 43,
@@ -268,7 +292,8 @@
             "id": 44,
             "name": "Arataki Itto",
             "weapon": "Claymore",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "Itto" ]
         },
         {
             "id": 45,
@@ -286,13 +311,15 @@
             "id": 47,
             "name": "Yun Jin",
             "weapon": "Polearm",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "YJ", "Yunjin" ]
         },
         {
             "id": 48,
             "name": "Yae Miko",
             "weapon": "Catalyst",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Yae", "Miko" ]
         }
     ],
     "teams": [
