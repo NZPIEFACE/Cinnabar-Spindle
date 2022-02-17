@@ -112,13 +112,15 @@
             "id": 18,
             "name": "Anemo Traveler",
             "weapon": "Sword",
-            "element": "Anemo"
+            "element": "Anemo",
+            "aliases": [ "AMC" ]
         },
         {
             "id": 19,
             "name": "Geo Traveler",
             "weapon": "Sword",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "EMC" ]
         },
         {
             "id": 20,
@@ -148,7 +150,8 @@
             "id": 24,
             "name": "Tartaglia",
             "weapon": "Bow",
-            "element": "Hydro"
+            "element": "Hydro",
+            "aliases": [ "Childe" ]
         },
         {
             "id": 25,
@@ -208,19 +211,22 @@
             "id": 34,
             "name": "Kaedehara Kazuha",
             "weapon": "Sword",
-            "element": "Anemo"
+            "element": "Anemo",
+            "aliases": [ "Kazuha" ]
         },
         {
             "id": 35,
             "name": "Electro Traveler",
             "weapon": "Sword",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "EMC" ]
         },
         {
             "id": 36,
             "name": "Kamisato Ayaka",
             "weapon": "Sword",
-            "element": "Cryo"
+            "element": "Cryo",
+            "aliases": [ "Ayaka" ]
         },
         {
             "id": 37,
@@ -244,19 +250,22 @@
             "id": 40,
             "name": "Kujou Sara",
             "weapon": "Bow",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Sara" ]
         },
         {
             "id": 41,
             "name": "Raiden Shogun",
             "weapon": "Polearm",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Raiden" ]
         },
         {
             "id": 42,
             "name": "Sangonomiya Kokomi",
             "weapon": "Catalyst",
-            "element": "Hydro"
+            "element": "Hydro",
+            "aliases": [ "Kokomi" ]
         },
         {
             "id": 43,
@@ -268,7 +277,8 @@
             "id": 44,
             "name": "Arataki Itto",
             "weapon": "Claymore",
-            "element": "Geo"
+            "element": "Geo",
+            "aliases": [ "Itto" ]
         },
         {
             "id": 45,
@@ -292,7 +302,8 @@
             "id": 48,
             "name": "Yae Miko",
             "weapon": "Catalyst",
-            "element": "Electro"
+            "element": "Electro",
+            "aliases": [ "Yae" ]
         }
     ],
     "teams": [
