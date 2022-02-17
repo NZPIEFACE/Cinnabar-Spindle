@@ -381,6 +381,10 @@
             "team": ["Klee", "Xiangling", "Bennett", "Kaedehara Kazuha"]
         },
         {
+            "name": "Klee Pure Pyro",
+            "team": ["Klee", "Venti", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
             "name": "International",
             "team": ["Xiangling", "Kaedehara Kazuha", "Tartaglia", "Bennett"]
         },
@@ -625,7 +629,7 @@
             "team": ["Arataki Itto", "Gorou", "Albedo", "Zhongli"]
         },
         {
-            "name": "F2P Ayaka",
+            "name": "Broke Ayaka",
             "team": ["Kamisato Ayaka", "Anemo Traveler", "Barbara", "Kaeya"]
         },
         {
@@ -633,12 +637,160 @@
             "team": ["Yae Miko", "Bennett", "Xiangling", "Xingqiu"]
         },
         {
-            "name": "Physical Amber",
+            "name": "Physical  - EMC",
             "team": ["Amber", "Beidou", "Electro Traveler", "Diona"]
         },
         {
             "name": "Reverse Melt Aloy",
             "team": ["Aloy", "Bennett", "Xiangling", "Sucrose"]
+        },
+        {
+            "name": "FavorItto",
+            "team": ["Arataki Itto", "Beidou", "Fischl", "Rosaria"]
+        },
+        {
+            "name": "Physical Diona",
+            "team": ["Diona", "Fischl", "Beidou", "Bennett"]
+        },
+        {
+            "name": "Physical Childe",
+            "team": ["Tartaglia", "Fischl", "Rosaria", "Bennett"]
+        },
+        {
+            "name": "Physical Amber Driving Beidou",
+            "team": ["Amber", "Beidou", "Bennett", "Fischl"]
+        },
+        {
+            "name": "Physical Amber",
+            "team": ["Amber", "Fischl", "Rosaria", "Bennett"]
+        },
+        {
+            "name": "Overload Beidou-Xiangling",
+            "team": ["Beidou", "Fischl", "Xiangling", "Bennett"]
+        },
+        {
+            "name": "Crescent",
+            "team": ["Xiao", "Mona", "Rosaria", "Diona"]
+        },
+        {
+            "name": "Morganayaka",
+            "team": ["Ganyu", "Venti", "Kamisato Ayaka", "Mona"]
+        },
+        {
+            "name": "Childe Fireworks",
+            "team": ["Tartaglia", "Fischl", "Beidou", "Bennett"]
+        },
+        {
+            "name": "'Cake'",
+            "team": ["Eula", "Raiden Shogun", "Zhongli", "Rosaria"]
+        },
+        {
+            "name": "Pure Pyro Yoimiya",
+            "team": ["Xiangling", "Yoimiya", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Pure Pyro Yoimiya - Shieded",
+            "team": ["Yoimiya", "Xiangling", "Bennett", "Zhongli"]
+        },
+        {
+            "name": "Physchl",
+            "team": ["Fischl", "Yun Jin", "Diona", "Qiqi"]
+        },
+        {
+            "name": "Eula Geo Bros",
+            "team": ["Eula", "Rosaria", "Albedo", "Zhongli"]
+        },
+        {
+            "name": "Eula Geo Bros - Shenhe",
+            "team": ["Eula", "Shenhe", "Albedo", "Zhongli"]
+        },
+        {
+            "name": "Eula Raiden - Qiqi Variation",
+            "team": ["Eula", "Qiqi", "Rosaria", "Raiden Shogun"]
+        },
+        {
+            "name": "Chongyun Xingqiu - Rosaria",
+            "team": ["Chongyun", "Rosaria", "Xingqiu", "Sucrose"]
+        },
+        {
+            "name": "Chongyun Xingqiu - Kaeya",
+            "team": ["Chongyun", "Xingqiu", "Kaeya", "Sucrose"]
+        },
+        {
+            "name": "Diluc Melt - Rosaria",
+            "team": ["Diluc", "Rosaria", "Sucrose", "Bennett"]
+        },
+        {
+            "name": "Diluc Melt - Kaeya",
+            "team": ["Diluc", "Kaeya", "Sucrose", "Bennett"]
+        },
+        {
+            "name": "Mommy is Eternal",
+            "team": ["Raiden Shogun", "Kujou Sara", "Jean", "Yae Miko"]
+        },
+        {
+            "name": "Thundering Fury Kazuha",
+            "team": ["Kaedehara Kazuha", "Venti", "Barbara", "Fischl"]
+        },
+        {
+            "name": "Goldfish of Doom",
+            "team": ["Albedo", "Fischl", "Xingqiu", "Yoimiya"]
+        },
+        {
+            "name": "Raidou",
+            "team": ["Raiden Shogun", "Beidou", "Sucrose", "Bennett"]
+        },
+        {
+            "name": "OHC Taser Barbara",
+            "team": ["Barbara", "Rosaria", "Fischl", "Beidou"]
+        },
+        {
+            "name": "Speedrun Hu Tao",
+            "team": ["Hu Tao", "Kamisato Ayaka", "Kaedehara Kazuha", "Bennett"]
+        },
+        {
+            "name": "Vape Yanfei - No Anemo",
+            "team": ["Yanfei", "Zhongli", "Xingqiu", "Bennett"]
+        },
+        {
+            "name": "Moryana",
+            "team": ["Kamisato Ayaka", "Venti", "Diona", "Mona"]
+        },
+        {
+            "name": "F2P Ayaka",
+            "team": ["Kamisato Ayaka", "Sucrose", "Diona", "Xingqiu"]
+        },
+        {
+            "name": "Chongyun Rosaria Reverse Melt",
+            "team": ["Chongyun", "Rosaria", "Xiangling", "Bennett"]
+        },
+        {
+            "name": "Ayaka Melt",
+            "team": ["Kamisato Ayaka", "Xiangling", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+            "name": "Kokomi Taser",
+            "team": ["Sangonomiya Kokomi", "Beidou", "Sucrose", "Fischl"]
+        },
+        {
+            "name": "Tapu Koko",
+            "team": ["Sangonomiya Kokomi", "Venti", "Beidou", "Fischl"]
+        },
+        {
+            "name": "Sayu Freeze",
+            "team": ["Sayu", "Mona", "Kaedehara Kazuha", "Rosaria"]
+        },
+        {
+            "name": "Sayu Mono Pyro",
+            "team": ["Kaedehara Kazuha", "Sayu", "Xiangling", "Bennett"]
+        },
+        {
+            "name": "Melt Amber - Diona",
+            "team": ["Amber", "Kaedehara Kazuha", "Rosaria"]
+        },
+        {
+            "name": "Melt Amber - Bennet",
+            "team": ["Amber", "Bennett", "Sucrose", "Ganyu"]
         }
     ]
 }
