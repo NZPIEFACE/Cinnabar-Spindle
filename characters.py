@@ -57,9 +57,10 @@ with open("data.json") as f:
         char = Character.dict_to_Char(c)
         character_list.append(char)
         character_dict[char.name] = char
-
-    for c in character_dict:
-        character_appearance_dict[c] = []
+        character_appearance_dict[char.name] = []
+        if "aliases" in c:
+            for alias in c["aliases"]:
+                character_dict[alias] = char
 
     for i, t in enumerate(obj["teams"]):
         team = Team.dict_to_Team(t)
